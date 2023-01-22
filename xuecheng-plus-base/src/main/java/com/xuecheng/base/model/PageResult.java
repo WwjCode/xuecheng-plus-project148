@@ -6,10 +6,10 @@ import lombok.ToString;
 import java.util.List;
 
 /**
- * @description TODO
- * @author Mr.M
- * @date 2022/10/7 16:17
- * @version 1.0
+ * @author wj
+ * @description 分页查询结果模型类
+ * @date 2023/1/16 0:06
+ * @VERSION 1.0
  */
  @Data
  @ToString

@@ -15,10 +15,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description TODO
- * @author Mr.M
- * @date 2022/10/7 16:22
- * @version 1.0
+ * @author wj
+ * @description 课程信息编辑接口
+ * @date 2023/1/16 0:14
+ * @VERSION 1.0
  */
 @Api(value = "课程管理接口",tags = "课程管理接口")
 @RestController

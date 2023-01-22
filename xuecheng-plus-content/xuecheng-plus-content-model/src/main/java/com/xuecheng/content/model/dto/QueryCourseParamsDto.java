@@ -3,10 +3,10 @@ package com.xuecheng.content.model.dto;
 import lombok.Data;
 
 /**
- * @author Mr.M
- * @version 1.0
- * @description TODO
- * @date 2022/10/7 16:08
+ * @author wj
+ * @description 课程查询参数Dto
+ * @date 2023/1/15 23:56
+ * @VERSION 1.0
  */
 @Data
 public class QueryCourseParamsDto {

@@ -10,10 +10,10 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- * @author mrt
- * @version 1.0
- * @description TODO
- * @date 2022/12/9 10:54
+ * @author wj
+ * @description 时间格式设置
+ * @date 2023/1/16 0:46
+ * @VERSION 1.0
  */
 @Configuration
 public class LocalDateTimeConfig {

@@ -25,10 +25,10 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /**
- * @author Mr.M
- * @version 1.0
- * @description TODO
- * @date 2022/10/8 9:46
+ * @author wj
+ * @description 课程信息管理业务接口实现类
+ * @date 2023/1/20 14:18
+ * @VERSION 1.0
  */
 @Slf4j
 @Service

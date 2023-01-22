@@ -9,10 +9,10 @@ import com.xuecheng.content.model.po.CourseBase;
 import org.springframework.web.bind.annotation.RequestBody;
 
 /**
+ * @author wj
  * @description 课程管理service
- * @author Mr.M
- * @date 2022/10/8 9:44
- * @version 1.0
+ * @date 2023/1/20 14:18
+ * @VERSION 1.0
  */
 public interface CourseBaseInfoService {
 

@@ -12,10 +12,10 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @author mrt
- * @version 1.0
- * @description TODO
- * @date 2022/12/10 11:39
+ * @author wj
+ * @description 课程分类接口实现类
+ * @date 2023/1/21 14:18
+ * @VERSION 1.0
  */
 @Slf4j
 @Service

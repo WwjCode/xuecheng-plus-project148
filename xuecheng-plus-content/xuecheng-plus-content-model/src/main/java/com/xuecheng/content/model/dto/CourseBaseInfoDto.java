@@ -7,10 +7,10 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
+ * @author wj
  * @description 课程基本信息dto
- * @author Mr.M
- * @date 2022/9/7 17:44
- * @version 1.0
+ * @date 2023/1/15 23:56
+ * @VERSION 1.0
  */
 @Data
 public class CourseBaseInfoDto extends CourseBase {
