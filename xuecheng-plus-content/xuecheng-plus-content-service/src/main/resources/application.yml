@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: content-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.200.133:3306/xc148_content?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: root
+# 日志文件配置路径
+logging:
+  config: classpath:log4j2-dev.xml
